@@ -1,0 +1,9 @@
+name: Bewerbung-Playinfinity
+author: Simon
+main: de.simon.coins.Coins
+version: 0.1
+commands:
+  coins:
+  setcoins:
+  addcoins:
+  removecoins:
